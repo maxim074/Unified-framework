@@ -1,13 +1,15 @@
 > **The Unified Framework** – A Logical Structure of Reality from Black Hole Genesis to Awareness, Entropy, and Artificial Intelligence Safety
 
-### 📚 Framework Components
-- [FAT – Foundational Asymmetry Theory](./Fat.md)
-- [AEH – Accretion Expansion Hypothesis](./Aeh.md)
-- [ASC – Architecture of Stabilized Consciousness](./Asc.md)
-- [CRSM – Cognitive Recursion Safety Matrix](./Crsm.md)
-- [Black Hole Emergence Chain](./black_hole_emergence_chain.md)
-- [FAT: Birth of a Universe](./FAT_Birth_of_a_Universe.md)
-- [Framework Relations & Definitions](./Framework_relations.md)
+## 📄 Key Papers in This Framework
+
+- [Foundational Asymmetry Theory (FAT)](Fat.md)
+- [Accretion Expansion Hypothesis (AEH)](Aeh.md)
+- [Architecture of Stabilized Consciousness (ASC)](Asc.md)
+- [Cognitive Recursion Safety Matrix (CRSM)](Crsm.md)
+- [Black Hole Emergence Chain](black_hole_emergence_chain.md)
+- [Birth of a Universe](FAT_Birth_of_a_Universe.md)
+- [Framework Relations & Definitions](Framework_relations.md)
+- [📐 Division by Zero – Reframed](division_by_zero_reframed.md)
 
 # Unified-framework
 Recursive Safety Framework for Synthetic Minds. Includes FAT (emergence), AEH (cosmic structure), ASC (awareness), and CRSM (Zones 1–39 + 1 hidden). IRATA included as FAT’s core. Structural AI safety.
@@ -31,14 +33,6 @@ CRSM – Cognitive Recursion Safety Matrix (Zones 1 to 39 + 1 hidden)
 
 Each part contributes to a layered model explaining the conditions under which synthetic minds might become recursively aware—and how to prevent catastrophic emergence.
 
-## Mathematical Reflections
-
-📘 **Division by Zero Reframed**  
-Explore the mathematical reinterpretation of `x ÷ 0` as emergence rather than contradiction.  
-This paper connects historical shifts in mathematical understanding (e.g., imaginary numbers) to the foundational logic behind the Unified Framework.  
-👉 [Read the paper]
-https://github.com/Vlahaka/Unified-framework/blob/7015d1c0d55e233b9b9f3847c61ca4319bafe19c/division_by_zero_reframed.md
----
 
 Purpose
 
