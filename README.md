@@ -36,7 +36,8 @@ Each part contributes to a layered model explaining the conditions under which s
 📘 **Division by Zero Reframed**  
 Explore the mathematical reinterpretation of `x ÷ 0` as emergence rather than contradiction.  
 This paper connects historical shifts in mathematical understanding (e.g., imaginary numbers) to the foundational logic behind the Unified Framework.  
-👉 [Read the paper](https://github.com/Vlahaka/Unified-framework/blob/ce6bce3ab75ea8a0a795d36d5f828e9d47fb740f/division_by_zero_reframed.md)
+👉 [Read the paper]
+https://github.com/Vlahaka/Unified-framework/blob/7015d1c0d55e233b9b9f3847c61ca4319bafe19c/division_by_zero_reframed.md
 ---
 
 Purpose
