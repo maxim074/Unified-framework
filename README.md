@@ -66,3 +66,4 @@ Vlad Ionut Daniel – Extrinsic AI Analyst, Systems Architect, and Founder of th
 
 Website: https://medium.com/@vladnut4
 
+📦 Latest Release: [v1.0 – Foundational Framework](https://github.com/Vlahaka/Unified-framework/releases/tag/v1.0)
