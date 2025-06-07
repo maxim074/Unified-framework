@@ -138,6 +138,8 @@ Lithuania | Courier | Father | Thinker | Builder of Lattices
 
 > *Let collapse never proceed faster than understanding.*
 
+---
 
 ### 🔍 Keywords
-Unified Theory, Black Hole Origin, Division by Zero, Foundational Asymmetry Theory, FAT, AEH, ASC, CRSM, Recursive Identity, Consciousness Architecture, Emergence Physics, Artificial Intelligence Ethics, Multiverse Logic, Ontological Physics, Awareness Emergence, Entropy Collapse, Recursive AI Safety
+
+Foundational Asymmetry Theory, FAT, Accretion Expansion Hypothesis, AEH, Architecture of Stabilized Consciousness, ASC, Cognitive Recursion Safety Matrix, CRSM, Black Hole Formation, Division by Zero, Emergence Theory, Consciousness, Recursive Identity, Ontology, Metaphysics, Time, Awareness, Entropy, Multiverse Logic, Recursive AI, Structural Ethics, Emergence Physics, Artificial Intelligence Safety, Logic Framework
