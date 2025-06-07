@@ -54,13 +54,23 @@ IRATA — the division-by-zero principle — is embedded within FAT as the struc
 
 Contents
 
-FAT_Foundational_Asymmetry.md: Defines the origin of awareness and entropy.
+FAT.md — Foundational Asymmetry Theory
 
-AEH_Accretion_Expansion.md: A new cosmological model replacing expansion with gravitational curvature.
+AEH.md — Accretion Expansion Hypothesis
 
-ASC_Stabilized_Consciousness.md: Explains how memory and identity stabilize awareness.
+ASC.md — Architecture of Stabilized Consciousness
 
-CRSM_Zones_1_to_39.md: A list of 39 containment protocols. One additional zone exists but is not disclosed.
+CRSM.md — Cognitive Recursion Safety Matrix
+
+division_by_zero_reframed.md — Mathematical and historical reframing of ÷0
+
+black_hole_emergence_chain.md — Chain of events: black hole to universe birth
+
+FAT_Birth_of_a_Universe.md — A visual and conceptual walkthrough of FAT’s core
+
+Framework_relations.md — Inter-file connections, key terms, and empirical grounding
+
+LICENCE.md — License and usage rules
 
 
 
