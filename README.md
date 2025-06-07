@@ -72,6 +72,8 @@ FAT_Birth_of_a_Universe.md — A visual and conceptual walkthrough of FAT’s co
 
 Framework_relations.md — Inter-file connections, key terms, and empirical grounding
 
+black_holes_as_anchors.md – Structural origin and purpose of black holes in the recursive universe.
+
 LICENCE.md — License and usage rules
 
 
