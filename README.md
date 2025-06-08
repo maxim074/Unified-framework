@@ -76,6 +76,8 @@ black_holes_as_anchors.md – Structural origin and purpose of black holes in th
 
 - [Validation Through Parallel Discovery](validation_through_parallel_discovery.md)
 
+- [Einstein and the Edge of Zero (June 8, 2025)](einstein_and_the_edge_of_zero_2025-06-08.md)
+
 LICENCE.md — License and usage rules
 
 
