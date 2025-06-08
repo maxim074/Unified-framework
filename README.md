@@ -74,6 +74,8 @@ Framework_relations.md — Inter-file connections, key terms, and empirical grou
 
 black_holes_as_anchors.md – Structural origin and purpose of black holes in the recursive universe.
 
+- [Validation Through Parallel Discovery](validation_through_parallel_discovery.md)
+
 LICENCE.md — License and usage rules
 
 
