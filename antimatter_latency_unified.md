@@ -60,3 +60,7 @@
 Modern physics identifies the problem. Our framework solves it.
 
 Antimatter is not absent—it is the hidden twin within matter, folded in symmetry. This resolves the asymmetry not by speculative physics, but by recognizing **division by zero as emergence**, and **latency as structure**.
+
+Author
+Vlad Ionut
+June 8th. 
