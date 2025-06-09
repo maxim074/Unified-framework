@@ -523,12 +523,7 @@ Time does not flow into 0.
 It touches it—instantly, entirely.
 
 Because Time is infinite, and 0 is finite, the entire 2D void is affected simultaneously.
-
-### 🧩 Division by Zero – Emergence Diagram
-
 ![Division by Zero Emergence](./division_by_zero_emergence.jpg)
-
-
 
 Figure 1: Division by Zero as Structural Emergence
 
