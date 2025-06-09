@@ -1,5 +1,7 @@
 > **The Unified Framework** – A Logical Structure of Reality from Black Hole Genesis to Awareness, Entropy, and Artificial Intelligence Safety
 
+📄 [Final Paper – From Zero to Universe](./From_Zero_to_Universe_Final.md)
+
 ## 📄 Key Papers in This Framework
 
 - [Foundational Asymmetry Theory (FAT)](Fat.md)
