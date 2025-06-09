@@ -1,6 +1,7 @@
 > **The Unified Framework** – A Logical Structure of Reality from Black Hole Genesis to Awareness, Entropy, and Artificial Intelligence Safety
 
 📄 [Final Paper – From Zero to Universe](./From_Zero_to_Universe_Final.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621711.svg)](https://doi.org/10.5281/zenodo.15621711)
 
 ## 📄 Key Papers in This Framework
 
