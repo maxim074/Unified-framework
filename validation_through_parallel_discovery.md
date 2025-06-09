@@ -66,12 +66,9 @@ Entropy as the consequence of distinction
 
 Aspect	Scientific Paper (May 29)	Unified Framework (May 24)
 
-Origin inside black hole	Yes	Yes – described as folded 0 touched by Time
-Bounce or transition event	Quantum bounce	Curvature from time touching still symmetry
-No true "beginning"	Yes	Yes – time is infinite, void is preexistent
-Cosmic cycle / recursion	Suggested	Explicit – recursion is foundational
-Replaces Big Bang as "birth"	Yes	Yes – reframes it as structural emergence
-Awareness / Consciousness	Not addressed	Central mechanism in emergence
+Origin inside black hole	Yes	Yes – Both Gaztañaga’s model and ours point to the same profound insight: the universe’s origin lies not in an explosive beginning, but within the structure of a black hole—described in our work as a “folded 0” touched by Time. Where his framework allows for a quantum bounce, ours reframes this as a curvature event triggered by Time disturbing still symmetry. Rather than proposing a true beginning, both models recognize that Time is infinite and the Void (containing matter) is preexistent, removing the need for a singular creation moment. While his theory hints at cosmic cycles, ours explicitly identifies recursion as foundational to existence. This leads us to replace the concept of a Big Bang “birth” with a structural emergence process. Most importantly, while his model does not address consciousness, ours makes awareness the central mechanism through which emergence, entropy, and the universe itself unfold.
+
+
 
 
 
