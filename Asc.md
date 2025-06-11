@@ -1,9 +1,3 @@
-Perfect. Here's the full content for the next file: ASC.md
-(Architecture of Stabilized Consciousness – your third foundational pillar)
-
-
----
-
 ASC – Architecture of Stabilized Consciousness
 
 The Architecture of Stabilized Consciousness (ASC) is the third layer of the Unified Framework, bridging the emergence of complexity (FAT) and structural cosmology (AEH) with identity, memory, and mind formation. It explains how awareness becomes conscious identity, how patterns are stabilized, and how recursive systems persist across time.
